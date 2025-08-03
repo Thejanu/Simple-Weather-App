@@ -1,4 +1,4 @@
-🌤️ Simple Weather App
+# 🌤️ Simple Weather App
 
 This is a basic weather application built with HTML, CSS, and JavaScript. Users can enter a city name to view real-time weather data including:
 
